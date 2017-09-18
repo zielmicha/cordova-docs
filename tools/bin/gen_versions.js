@@ -32,7 +32,6 @@ var LANGUAGE_MAP = {
     "it": "Italiano",
     "ja": "日本語",
     "ko": "한국어",
-    "pl": "Polski",
     "ru": "Русский",
     "sl": "Slovene",
     "zh-cn": "简体中文",
